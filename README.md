@@ -3,7 +3,7 @@
 **Overview**  
 The Python-Based Port-Sniff Utility is a versatile tool designed for fast ports scanning and packet sniffing. It provides a user-friendly interface for scanning ports on a target IP address and sniffing packets on a specified network interface. This utility is ideal for network administrators, security professionals, and developers who require efficient network analysis capabilities.
 
-**Features**  
+**Features:**  
 **Port Scanning**  
 **Multithreaded Scanning**  
 **Packet Sniffing**  
