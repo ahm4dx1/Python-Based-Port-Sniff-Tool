@@ -52,8 +52,8 @@ python port_sniff.py -m sniff -i eth0
 ```
 
 ## ⚠️ Notes
-⚠️  Ensure you have proper authorization before scanning any network.  
-⚠️ The tool is designed for ethical hacking, penetration testing, and network security research.  
+Ensure you have proper authorization before scanning any network.  
+The tool is designed for ethical hacking, penetration testing, and network security research.  
   
 
 
