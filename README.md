@@ -1,7 +1,7 @@
 # 🚀 Port-Sniff Tool
 
 ## 📌 Description
-Port-Sniff is a Python-based tool designed for fast port scanning and packet sniffing. It allows users to scan open ports on a given IP address and capture HTTP traffic to identify possible sensitive data.
+Port-Sniff is a Python based tool designed for fast port scanning and packet sniffing. It allows users to scan open ports on a given IP address and capture HTTP traffic to identify possible sensitive data.
 
 ## 🌟 Features
 ✅ **Fast Port Scanning**: Quickly scan a range of ports using multithreading.  
